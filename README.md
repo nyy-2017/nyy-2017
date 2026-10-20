@@ -4,7 +4,6 @@
 - 🏡 作品：<a href="https://www.code-nav.cn" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/code-nav" target="_blank">求星星 ✨</a>
 - 🌱 热爱分享 <a href="https://blog.csdn.net/qq_41646249" target="_blank">csdn『csdn 个人博客 』</a>
 - 😺 趣讲技术：<a href="https://blog.csdn.net/qq_41646249" target="_blank">csdn『csdn 个人博客 』</a>
-- 💬 微信：nyy290385211
 - 🤔 有问题欢迎- 👬 QQ 交流群：625787746 <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=DceI0140">『 IT博客技术分享群① 』</a>
 
 ## 新年汇总 ✨
